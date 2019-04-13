@@ -1,5 +1,5 @@
 # Web Scraping
-Used python to scrape lecture content off course websites
+Used python and the `BeautifulSoup` library to scrape lecture content off course websites
 
 The following websites were used to scrape data:
 
