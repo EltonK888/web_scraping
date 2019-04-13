@@ -32,3 +32,12 @@ pip install requests
 ~~~~
 pip install lxml
 ~~~~
+
+## To run:  
+
+~~~~
+python3 <name_of_file>.py
+~~~~
+
+This will save all lecture content to the working directory  
+Reading urls will be copied into a pdf file
