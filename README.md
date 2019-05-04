@@ -6,7 +6,8 @@ The following websites were used to scrape data:
 **CSCC01** - Introduction to Software Engineering: https://thierrysans.me/CSCC01/  
 **CSCC09** - Programming on the Web: https://thierrysans.me/CSCC09/  
 **CSCD01** - Engineering Large Software Systems: https://www.utsc.utoronto.ca/~atafliovich/cscd01/index.html   
-**CSCB63** - Design and Analysis of Data Structures: http://www.utsc.utoronto.ca/~bretscher/b63/index.html 
+**CSCB63** - Design and Analysis of Data Structures: http://www.utsc.utoronto.ca/~bretscher/b63/index.html
+**CSCA67** - Discrete Mathematics: http://www.utsc.utoronto.ca/~bretscher/a67/index.html
 
 ## Dependencies:
 - `fpdf`  For writing to a pdf
